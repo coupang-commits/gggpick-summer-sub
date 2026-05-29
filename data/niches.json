@@ -1,22 +1,22 @@
 {
     "domain": "summer.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "선풍기 및 냉풍기",
+        "쿨매트",
+        "자외선 차단"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang summer items."
+        "선풍기 및 냉풍기": {
+            "topic": "Desk fans, tower fans, portable air coolers.",
+            "role": "Summer appliance expert."
         },
-        "수유/이유식": {
-            "topic": "summer bottle sterilizers, summer food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "쿨매트": {
+            "topic": "Cooling mats, summer blankets, bamboo mats.",
+            "role": "Summer bedding reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "자외선 차단": {
+            "topic": "Sunscreen, UV protection umbrellas, sun hats.",
+            "role": "Sun care curator."
         }
     }
 }
